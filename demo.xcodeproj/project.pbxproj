@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4056BB4D240BC72F00CF0B79 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4056BB4C240BC72F00CF0B79 /* .gitignore */; };
 		40D7F278240A766C0075BCDA /* PageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D7F277240A766C0075BCDA /* PageVC.swift */; };
 		40D7F27A240A80A40075BCDA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40D7F279240A80A40075BCDA /* Main.storyboard */; };
 		40D7F27C240A84E20075BCDA /* Mooc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D7F27B240A84E20075BCDA /* Mooc.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4056BB4C240BC72F00CF0B79 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		40D7F277240A766C0075BCDA /* PageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageVC.swift; sourceTree = "<group>"; };
 		40D7F279240A80A40075BCDA /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		40D7F27B240A84E20075BCDA /* Mooc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mooc.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		40F74E5B240A544F00FB56FC = {
 			isa = PBXGroup;
 			children = (
+				4056BB4C240BC72F00CF0B79 /* .gitignore */,
 				40F74E66240A544F00FB56FC /* demo */,
 				40F74E65240A544F00FB56FC /* Products */,
 			);
@@ -170,6 +173,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4056BB4D240BC72F00CF0B79 /* .gitignore in Resources */,
 				40D7F27A240A80A40075BCDA /* Main.storyboard in Resources */,
 				40F74E79240A545600FB56FC /* LaunchScreen.storyboard in Resources */,
 				40F74E76240A545600FB56FC /* Assets.xcassets in Resources */,
